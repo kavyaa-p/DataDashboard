@@ -1,0 +1,17 @@
+.filter {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.filter select,
+.filter input[type="date"] {
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 1em;
+}
+
+.filter label {
+    margin-left: 10px;
+    font-size: 1em;
+}

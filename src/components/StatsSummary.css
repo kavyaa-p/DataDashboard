@@ -1,0 +1,8 @@
+.stats-summary {
+    text-align: center;
+}
+
+.stats-summary p {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
